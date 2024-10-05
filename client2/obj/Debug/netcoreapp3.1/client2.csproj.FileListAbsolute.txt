@@ -1,0 +1,42 @@
+C:\Users\hoang\source\repos\DoMin\client2\bin\Debug\netcoreapp3.1\client2.exe
+C:\Users\hoang\source\repos\DoMin\client2\bin\Debug\netcoreapp3.1\client2.deps.json
+C:\Users\hoang\source\repos\DoMin\client2\bin\Debug\netcoreapp3.1\client2.runtimeconfig.json
+C:\Users\hoang\source\repos\DoMin\client2\bin\Debug\netcoreapp3.1\client2.runtimeconfig.dev.json
+C:\Users\hoang\source\repos\DoMin\client2\bin\Debug\netcoreapp3.1\client2.dll
+C:\Users\hoang\source\repos\DoMin\client2\bin\Debug\netcoreapp3.1\client2.pdb
+C:\Users\hoang\source\repos\DoMin\client2\obj\Debug\netcoreapp3.1\client2.csproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\DoMin\client2\obj\Debug\netcoreapp3.1\client2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\source\repos\DoMin\client2\obj\Debug\netcoreapp3.1\client2.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\DoMin\client2\obj\Debug\netcoreapp3.1\client2.AssemblyInfo.cs
+C:\Users\hoang\source\repos\DoMin\client2\obj\Debug\netcoreapp3.1\client2.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\DoMin\client2\obj\Debug\netcoreapp3.1\client2.dll
+C:\Users\hoang\source\repos\DoMin\client2\obj\Debug\netcoreapp3.1\client2.pdb
+C:\Users\hoang\source\repos\DoMin\client2\obj\Debug\netcoreapp3.1\client2.genruntimeconfig.cache
+C:\Users\hoang\OneDrive\Máy tính\DoMin\client2\bin\Debug\netcoreapp3.1\client2.exe
+C:\Users\hoang\OneDrive\Máy tính\DoMin\client2\bin\Debug\netcoreapp3.1\client2.deps.json
+C:\Users\hoang\OneDrive\Máy tính\DoMin\client2\bin\Debug\netcoreapp3.1\client2.runtimeconfig.json
+C:\Users\hoang\OneDrive\Máy tính\DoMin\client2\bin\Debug\netcoreapp3.1\client2.runtimeconfig.dev.json
+C:\Users\hoang\OneDrive\Máy tính\DoMin\client2\bin\Debug\netcoreapp3.1\client2.dll
+C:\Users\hoang\OneDrive\Máy tính\DoMin\client2\bin\Debug\netcoreapp3.1\client2.pdb
+C:\Users\hoang\OneDrive\Máy tính\DoMin\client2\obj\Debug\netcoreapp3.1\client2.csproj.AssemblyReference.cache
+C:\Users\hoang\OneDrive\Máy tính\DoMin\client2\obj\Debug\netcoreapp3.1\client2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\OneDrive\Máy tính\DoMin\client2\obj\Debug\netcoreapp3.1\client2.AssemblyInfoInputs.cache
+C:\Users\hoang\OneDrive\Máy tính\DoMin\client2\obj\Debug\netcoreapp3.1\client2.AssemblyInfo.cs
+C:\Users\hoang\OneDrive\Máy tính\DoMin\client2\obj\Debug\netcoreapp3.1\client2.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Máy tính\DoMin\client2\obj\Debug\netcoreapp3.1\client2.dll
+C:\Users\hoang\OneDrive\Máy tính\DoMin\client2\obj\Debug\netcoreapp3.1\client2.pdb
+C:\Users\hoang\OneDrive\Máy tính\DoMin\client2\obj\Debug\netcoreapp3.1\client2.genruntimeconfig.cache
+D:\Học tập 5\MMT\DoMin\client2\bin\Debug\netcoreapp3.1\client2.exe
+D:\Học tập 5\MMT\DoMin\client2\bin\Debug\netcoreapp3.1\client2.deps.json
+D:\Học tập 5\MMT\DoMin\client2\bin\Debug\netcoreapp3.1\client2.runtimeconfig.json
+D:\Học tập 5\MMT\DoMin\client2\bin\Debug\netcoreapp3.1\client2.runtimeconfig.dev.json
+D:\Học tập 5\MMT\DoMin\client2\bin\Debug\netcoreapp3.1\client2.dll
+D:\Học tập 5\MMT\DoMin\client2\bin\Debug\netcoreapp3.1\client2.pdb
+D:\Học tập 5\MMT\DoMin\client2\obj\Debug\netcoreapp3.1\client2.csproj.AssemblyReference.cache
+D:\Học tập 5\MMT\DoMin\client2\obj\Debug\netcoreapp3.1\client2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học tập 5\MMT\DoMin\client2\obj\Debug\netcoreapp3.1\client2.AssemblyInfoInputs.cache
+D:\Học tập 5\MMT\DoMin\client2\obj\Debug\netcoreapp3.1\client2.AssemblyInfo.cs
+D:\Học tập 5\MMT\DoMin\client2\obj\Debug\netcoreapp3.1\client2.csproj.CoreCompileInputs.cache
+D:\Học tập 5\MMT\DoMin\client2\obj\Debug\netcoreapp3.1\client2.dll
+D:\Học tập 5\MMT\DoMin\client2\obj\Debug\netcoreapp3.1\client2.pdb
+D:\Học tập 5\MMT\DoMin\client2\obj\Debug\netcoreapp3.1\client2.genruntimeconfig.cache

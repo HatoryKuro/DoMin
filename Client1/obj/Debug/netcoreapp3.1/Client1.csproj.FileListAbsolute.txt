@@ -1,0 +1,42 @@
+C:\Users\hoang\source\repos\DoMin\Client1\bin\Debug\netcoreapp3.1\Client1.exe
+C:\Users\hoang\source\repos\DoMin\Client1\bin\Debug\netcoreapp3.1\Client1.deps.json
+C:\Users\hoang\source\repos\DoMin\Client1\bin\Debug\netcoreapp3.1\Client1.runtimeconfig.json
+C:\Users\hoang\source\repos\DoMin\Client1\bin\Debug\netcoreapp3.1\Client1.runtimeconfig.dev.json
+C:\Users\hoang\source\repos\DoMin\Client1\bin\Debug\netcoreapp3.1\Client1.dll
+C:\Users\hoang\source\repos\DoMin\Client1\bin\Debug\netcoreapp3.1\Client1.pdb
+C:\Users\hoang\source\repos\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.csproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\source\repos\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.AssemblyInfo.cs
+C:\Users\hoang\source\repos\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.dll
+C:\Users\hoang\source\repos\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.pdb
+C:\Users\hoang\source\repos\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.genruntimeconfig.cache
+C:\Users\hoang\OneDrive\Máy tính\DoMin\Client1\bin\Debug\netcoreapp3.1\Client1.exe
+C:\Users\hoang\OneDrive\Máy tính\DoMin\Client1\bin\Debug\netcoreapp3.1\Client1.deps.json
+C:\Users\hoang\OneDrive\Máy tính\DoMin\Client1\bin\Debug\netcoreapp3.1\Client1.runtimeconfig.json
+C:\Users\hoang\OneDrive\Máy tính\DoMin\Client1\bin\Debug\netcoreapp3.1\Client1.runtimeconfig.dev.json
+C:\Users\hoang\OneDrive\Máy tính\DoMin\Client1\bin\Debug\netcoreapp3.1\Client1.dll
+C:\Users\hoang\OneDrive\Máy tính\DoMin\Client1\bin\Debug\netcoreapp3.1\Client1.pdb
+C:\Users\hoang\OneDrive\Máy tính\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.csproj.AssemblyReference.cache
+C:\Users\hoang\OneDrive\Máy tính\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\OneDrive\Máy tính\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.AssemblyInfoInputs.cache
+C:\Users\hoang\OneDrive\Máy tính\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.AssemblyInfo.cs
+C:\Users\hoang\OneDrive\Máy tính\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Máy tính\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.dll
+C:\Users\hoang\OneDrive\Máy tính\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.pdb
+C:\Users\hoang\OneDrive\Máy tính\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.genruntimeconfig.cache
+D:\Học tập 5\MMT\DoMin\Client1\bin\Debug\netcoreapp3.1\Client1.exe
+D:\Học tập 5\MMT\DoMin\Client1\bin\Debug\netcoreapp3.1\Client1.deps.json
+D:\Học tập 5\MMT\DoMin\Client1\bin\Debug\netcoreapp3.1\Client1.runtimeconfig.json
+D:\Học tập 5\MMT\DoMin\Client1\bin\Debug\netcoreapp3.1\Client1.runtimeconfig.dev.json
+D:\Học tập 5\MMT\DoMin\Client1\bin\Debug\netcoreapp3.1\Client1.dll
+D:\Học tập 5\MMT\DoMin\Client1\bin\Debug\netcoreapp3.1\Client1.pdb
+D:\Học tập 5\MMT\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.csproj.AssemblyReference.cache
+D:\Học tập 5\MMT\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học tập 5\MMT\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.AssemblyInfoInputs.cache
+D:\Học tập 5\MMT\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.AssemblyInfo.cs
+D:\Học tập 5\MMT\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.csproj.CoreCompileInputs.cache
+D:\Học tập 5\MMT\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.dll
+D:\Học tập 5\MMT\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.pdb
+D:\Học tập 5\MMT\DoMin\Client1\obj\Debug\netcoreapp3.1\Client1.genruntimeconfig.cache
